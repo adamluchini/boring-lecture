@@ -1,18 +1,6 @@
-h2.intro {
-  font-weight: bolder;
-  color: brown;
-  font-style: italic;
-}
-p.intro {
-  width: 65%;
-  font-style: italic;
-  float: center;
-  margin-left: 17%;
-}
-
-img.intro {
-  border: 5px black;
-  border-style: solid;
+.intro{
+  color: red;
+  font-family: papyrus;
 }
 
 body{
